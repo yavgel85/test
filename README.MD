@@ -1,2 +1,2 @@
-my first repository \n
+my first repository 
 Новая запись, добавленная непосредственно из ГитХаба!!!
